@@ -1,4 +1,4 @@
-﻿county,NC,countyfips,pop,pct_under5,pct_5to9,pct_under9,num_famlies,avg_fam_size,num_single_dad,num_single_mom,num_single_parent,pct_single_parent,pct_hs_plus,pct_domestic,pct_white,pct_black,pct_latin,pct_asian,kids_in_poverty,active_cases,pct_active
+﻿county,lockdown,countyfips,pop,pct_under5,pct_5to9,pct_under9,num_famlies,avg_fam_size,num_single_dad,num_single_mom,num_single_parent,pct_single_parent,pct_hs_plus,pct_domestic,pct_white,pct_black,pct_latin,pct_asian,kids_in_poverty,active_cases,pct_active
 "Barrow County, Georgia",0,13013,80809,6.4,7.3,13.7,9885,3.35,395,2158,2553,25.82701062,85.7,90,80.4,13.7,11.5,3.9,13.2,247,0.305659023
 "Bartow County, Georgia",0,13015,106408,6.7,5.6,12.3,25602,3.4,1942,9125,11067,43.22709163,91,92.4,55.5,41.1,6.6,2.6,11.2,342,0.321404406
 "Bibb County, Georgia",0,13021,153095,6.5,6.7,13.2,12638,3.31,1953,1907,3860,30.54280741,84.4,96.1,75.6,20.6,7.2,0.3,38.1,364,0.237760867
