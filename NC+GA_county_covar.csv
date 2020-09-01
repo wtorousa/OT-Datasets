@@ -1,4 +1,4 @@
-﻿county,NC,countyfips,pop,pct_under5,pct_5to9,pct_under9,num_famlies,avg_fam_size,num_single_dad,num_single_mom,num_single_parent,pct_single_parent,pct_hs_plus,pct_college_plus,pct_foreign,pct_white,pct_black,pct_latin,pct_asian,kids_in_poverty,active_cases,pct_active,median_fam_income,mean_fam_income
+﻿county,lockdown,countyfips,pop,pct_under5,pct_5to9,pct_under9,num_famlies,avg_fam_size,num_single_dad,num_single_mom,num_single_parent,pct_single_parent,pct_hs_plus,pct_college_plus,pct_foreign,pct_white,pct_black,pct_latin,pct_asian,kids_in_poverty,active_cases,pct_active,median_fam_income,mean_fam_income
 "Appling County, Georgia",0,13001,18454,6.5,8.1,14.6,4934,3.12,230,1085,1315,26.65180381,74.5,9.7,3.9,77.7,19.5,9.8,0.8,32.1,55,0.298038366,48201,61000
 "Atkinson County, Georgia",0,13003,8265,6.4,7.2,13.6,1881,3.69,122,408,530,28.17650186,69.1,9.9,12.7,72.5,18,24.6,0,51.1,7,0.084694495,41348,59191
 "Bacon County, Georgia",0,13005,11228,7.2,8.2,15.4,2865,3.11,177,611,788,27.504363,81.5,10.1,3.6,82.7,17.3,8.4,0.6,37.9,21,0.187032419,45763,57034
